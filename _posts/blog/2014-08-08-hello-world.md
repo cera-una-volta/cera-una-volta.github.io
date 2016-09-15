@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hello World"
+title: "Il ciuccio di Nina"
 modified:
 categories: blog
 excerpt:
@@ -10,6 +10,11 @@ image:
 date: 2014-08-08T15:39:55-04:00
 modified: 2016-06-01T14:19:19-04:00
 ---
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/GY0f9VaiAtw" frameborder="0" allowfullscreen></iframe>
+
+Nina non vuole mai separarsi dal suo ciuccio. Pensa che se lo terrà anche quando sarà grande e si sposerà, andrà in piscina o a lavorare. Ma un bel giorno, attraversando il bosco, Nina incontra un lupo cattivo, affamato e puzzolente, che ringhia e strepita e vorrebbe mangiarsela in un sol boccone. Per calmarlo pensa bene di dargli il suo adorato ciuccio. E in men che non si dica, il lupo si trasforma in una bestiola mansueta e coccolona. Nina, soddisfatta, torna dalla sua mamma: il suo ciuccio è in buone mani, c'è qualcuno che ne ha davvero più bisogno di lei... Età di lettura: da 2 anni.
+
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
 To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
